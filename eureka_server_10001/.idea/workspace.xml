@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2efce2e1-a7b6-4d69-94ce-25fccfb2f30d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../business_server_13000/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../business_server_13000/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../business_server_13000/src/main/java/com/hhx/BusinessServe.java" beforeDir="false" afterPath="$PROJECT_DIR$/../business_server_13000/src/main/java/com/elm/BusinessServe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../business_server_13000/src/main/java/com/hhx/controller/BusinessController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../business_server_13000/src/main/java/com/elm/controller/BusinessController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../business_server_13000/src/main/java/com/hhx/feign/FoodFeignClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/../business_server_13000/src/main/java/com/elm/feign/FoodFeignClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../business_server_13000/src/main/java/com/hhx/feign/FoodFeignClientCallBack.java" beforeDir="false" afterPath="$PROJECT_DIR$/../business_server_13000/src/main/java/com/elm/feign/FoodFeignClientCallBack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../business_server_13000/src/main/java/com/hhx/mapper/BusinessMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../business_server_13000/src/main/java/com/elm/mapper/BusinessMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../business_server_13000/src/main/java/com/hhx/po/Business.java" beforeDir="false" afterPath="$PROJECT_DIR$/../business_server_13000/src/main/java/com/elm/po/Business.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../business_server_13000/src/main/java/com/hhx/po/CommonResult.java" beforeDir="false" afterPath="$PROJECT_DIR$/../business_server_13000/src/main/java/com/elm/po/CommonResult.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../business_server_13000/src/main/java/com/hhx/po/Food.java" beforeDir="false" afterPath="$PROJECT_DIR$/../business_server_13000/src/main/java/com/elm/po/Food.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../business_server_13000/src/main/java/com/hhx/service/BusinessService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../business_server_13000/src/main/java/com/elm/service/BusinessService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../business_server_13000/src/main/java/com/hhx/service/impl/BusinessServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../business_server_13000/src/main/java/com/elm/service/impl/BusinessServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../business_server_13001/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../business_server_13001/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../business_server_13001/src/main/java/com/hhx/BusinessServe.java" beforeDir="false" afterPath="$PROJECT_DIR$/../business_server_13001/src/main/java/com/elm/BusinessServe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../business_server_13001/src/main/java/com/hhx/controller/BusinessController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../business_server_13001/src/main/java/com/elm/controller/BusinessController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../business_server_13001/src/main/java/com/hhx/feign/FoodFeignClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/../business_server_13001/src/main/java/com/elm/feign/FoodFeignClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../business_server_13001/src/main/java/com/hhx/feign/FoodFeignClientCallBack.java" beforeDir="false" afterPath="$PROJECT_DIR$/../business_server_13001/src/main/java/com/elm/feign/FoodFeignClientCallBack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../business_server_13001/src/main/java/com/hhx/mapper/BusinessMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../business_server_13001/src/main/java/com/elm/mapper/BusinessMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../business_server_13001/src/main/java/com/hhx/po/Business.java" beforeDir="false" afterPath="$PROJECT_DIR$/../business_server_13001/src/main/java/com/elm/po/Business.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../business_server_13001/src/main/java/com/hhx/po/CommonResult.java" beforeDir="false" afterPath="$PROJECT_DIR$/../business_server_13001/src/main/java/com/elm/po/CommonResult.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../business_server_13001/src/main/java/com/hhx/po/Food.java" beforeDir="false" afterPath="$PROJECT_DIR$/../business_server_13001/src/main/java/com/elm/po/Food.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../business_server_13001/src/main/java/com/hhx/service/BusinessService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../business_server_13001/src/main/java/com/elm/service/BusinessService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../business_server_13001/src/main/java/com/hhx/service/impl/BusinessServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../business_server_13001/src/main/java/com/elm/service/impl/BusinessServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cart_server_14000/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cart_server_14000/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cart_server_14000/src/main/java/com/hhx/CartServe.java" beforeDir="false" afterPath="$PROJECT_DIR$/../cart_server_14000/src/main/java/com/elm/CartServe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cart_server_14000/src/main/java/com/hhx/controller/CartController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../cart_server_14000/src/main/java/com/elm/controller/CartController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cart_server_14000/src/main/java/com/hhx/mapper/BusinessMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../cart_server_14000/src/main/java/com/elm/mapper/BusinessMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cart_server_14000/src/main/java/com/hhx/mapper/CartMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../cart_server_14000/src/main/java/com/elm/mapper/CartMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cart_server_14000/src/main/java/com/hhx/mapper/FoodMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../cart_server_14000/src/main/java/com/elm/mapper/FoodMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cart_server_14000/src/main/java/com/hhx/po/Business.java" beforeDir="false" afterPath="$PROJECT_DIR$/../cart_server_14000/src/main/java/com/elm/po/Business.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cart_server_14000/src/main/java/com/hhx/po/Cart.java" beforeDir="false" afterPath="$PROJECT_DIR$/../cart_server_14000/src/main/java/com/elm/po/Cart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cart_server_14000/src/main/java/com/hhx/po/CommonResult.java" beforeDir="false" afterPath="$PROJECT_DIR$/../cart_server_14000/src/main/java/com/elm/po/CommonResult.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cart_server_14000/src/main/java/com/hhx/po/Food.java" beforeDir="false" afterPath="$PROJECT_DIR$/../cart_server_14000/src/main/java/com/elm/po/Food.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cart_server_14000/src/main/java/com/hhx/service/CartService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../cart_server_14000/src/main/java/com/elm/service/CartService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cart_server_14000/src/main/java/com/hhx/service/impl/CartServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../cart_server_14000/src/main/java/com/elm/service/impl/CartServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cart_server_14000/src/main/resources/mapper/CartMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cart_server_14000/src/main/resources/mapper/CartMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cart_server_14001/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cart_server_14001/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cart_server_14001/src/main/java/com/hhx/CartServe.java" beforeDir="false" afterPath="$PROJECT_DIR$/../cart_server_14001/src/main/java/com/elm/CartServe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cart_server_14001/src/main/java/com/hhx/controller/CartController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../cart_server_14001/src/main/java/com/elm/controller/CartController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cart_server_14001/src/main/java/com/hhx/mapper/BusinessMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../cart_server_14001/src/main/java/com/elm/mapper/BusinessMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cart_server_14001/src/main/java/com/hhx/mapper/CartMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../cart_server_14001/src/main/java/com/elm/mapper/CartMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cart_server_14001/src/main/java/com/hhx/mapper/FoodMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../cart_server_14001/src/main/java/com/elm/mapper/FoodMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cart_server_14001/src/main/java/com/hhx/po/Business.java" beforeDir="false" afterPath="$PROJECT_DIR$/../cart_server_14001/src/main/java/com/elm/po/Business.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cart_server_14001/src/main/java/com/hhx/po/Cart.java" beforeDir="false" afterPath="$PROJECT_DIR$/../cart_server_14001/src/main/java/com/elm/po/Cart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cart_server_14001/src/main/java/com/hhx/po/CommonResult.java" beforeDir="false" afterPath="$PROJECT_DIR$/../cart_server_14001/src/main/java/com/elm/po/CommonResult.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cart_server_14001/src/main/java/com/hhx/po/Food.java" beforeDir="false" afterPath="$PROJECT_DIR$/../cart_server_14001/src/main/java/com/elm/po/Food.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cart_server_14001/src/main/java/com/hhx/service/CartService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../cart_server_14001/src/main/java/com/elm/service/CartService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cart_server_14001/src/main/java/com/hhx/service/impl/CartServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../cart_server_14001/src/main/java/com/elm/service/impl/CartServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cart_server_14001/src/main/resources/mapper/CartMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cart_server_14001/src/main/resources/mapper/CartMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../config_server_17000/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../config_server_17000/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../config_server_17000/src/main/java/com/hhx/SCC.java" beforeDir="false" afterPath="$PROJECT_DIR$/../config_server_17000/src/main/java/com/elm/SCC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../config_server_17001/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../config_server_17001/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../config_server_17001/src/main/java/com/hhx/SCC.java" beforeDir="false" afterPath="$PROJECT_DIR$/../config_server_17001/src/main/java/com/elm/SCC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../config_server_17001/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../config_server_17001/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../deliveryaddress_server_15000/src/main/java/com/hhx/DeliveryAddressServe.java" beforeDir="false" afterPath="$PROJECT_DIR$/../deliveryaddress_server_15000/src/main/java/com/elm/DeliveryAddressServe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../deliveryaddress_server_15000/src/main/java/com/hhx/controller/DeliveryAddressController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../deliveryaddress_server_15000/src/main/java/com/elm/controller/DeliveryAddressController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../deliveryaddress_server_15000/src/main/java/com/hhx/mapper/DeliveryAddressMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../deliveryaddress_server_15000/src/main/java/com/elm/mapper/DeliveryAddressMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../deliveryaddress_server_15000/src/main/java/com/hhx/po/CommonResult.java" beforeDir="false" afterPath="$PROJECT_DIR$/../deliveryaddress_server_15000/src/main/java/com/elm/po/CommonResult.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../deliveryaddress_server_15000/src/main/java/com/hhx/po/DeliveryAddress.java" beforeDir="false" afterPath="$PROJECT_DIR$/../deliveryaddress_server_15000/src/main/java/com/elm/po/DeliveryAddress.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../deliveryaddress_server_15000/src/main/java/com/hhx/service/DeliveryAddressService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../deliveryaddress_server_15000/src/main/java/com/elm/service/DeliveryAddressService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../deliveryaddress_server_15000/src/main/java/com/hhx/service/impl/DeliveryAddressServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../deliveryaddress_server_15000/src/main/java/com/elm/service/impl/DeliveryAddressServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eureka_server_10000/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../eureka_server_10000/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eureka_server_10000/src/main/java/com/hhx/MyApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../eureka_server_10000/src/main/java/com/elm/MyApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/hhx/MyApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/elm/MyApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="2j9IcwLE3IgF3WF0xf9lMd68roH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/15009/Desktop/elm_SpringCloud/food_server_12000",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2efce2e1-a7b6-4d69-94ce-25fccfb2f30d" name="Changes" comment="" />
+      <created>1720792949630</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1720792949630</updated>
+      <workItem from="1720792950630" duration="19000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
